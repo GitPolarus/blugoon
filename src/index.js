@@ -8,31 +8,34 @@ import Features from "./pages/Features";
 import Contact from "./pages/Contact";
 import Gallery from "./pages/Gallery";
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <Layout />,
-    errorElement: <h2>404 Not Found</h2>,
-    children: [
-      {
-        path: "",
-        element: <Home />,
-      },
-      {
-        path: "/features/:id",
-        element: <Features />,
-      },
-      {
-        path: "/gallery",
-        element: <Gallery />,
-      },
-      {
-        path: "/contact",
-        element: <Contact />,
-      },
-    ],
-  },
-]);
+const router = createBrowserRouter(
+  [
+    {
+      path: "/",
+      element: <Layout />,
+      errorElement: <h2>404 Not Found</h2>,
+      children: [
+        {
+          path: "",
+          element: <Home />,
+        },
+        {
+          path: "/features/:id",
+          element: <Features />,
+        },
+        {
+          path: "/gallery",
+          element: <Gallery />,
+        },
+        {
+          path: "/contact",
+          element: <Contact />,
+        },
+      ],
+    },
+  ],
+  { basename: "/blugoon" }
+);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
