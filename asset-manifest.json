@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blugoon/static/css/main.46772437.css",
+    "main.js": "/blugoon/static/js/main.dd050afa.js",
+    "static/media/escalator-blue.jpg": "/blugoon/static/media/escalator-blue.672332898a5125011593.jpg",
+    "static/media/aerobic-girls.jpg": "/blugoon/static/media/aerobic-girls.026a6e0d3cd00f88dc52.jpg",
+    "static/media/woman-bikini.jpg": "/blugoon/static/media/woman-bikini.3a9620a895b090d7463e.jpg",
+    "static/media/woman-pretty.jpg": "/blugoon/static/media/woman-pretty.1b6ebd337a8a5fd5a5be.jpg",
+    "static/media/girl-nature.jpg": "/blugoon/static/media/girl-nature.a1bfd1c42722dfbc8d15.jpg",
+    "static/media/woman-chair-sunshine.jpg": "/blugoon/static/media/woman-chair-sunshine.8d993ac01ac3a11ee62a.jpg",
+    "static/media/woman-beach.jpg": "/blugoon/static/media/woman-beach.cdcdae6ced1d113d7401.jpg",
+    "static/media/mountain-reflection.jpg": "/blugoon/static/media/mountain-reflection.a139b6bd4bf9ae56abb3.jpg",
+    "static/media/woman-feeling.jpg": "/blugoon/static/media/woman-feeling.b6fd8af564fb8e0bf617.jpg",
+    "static/media/logo-image.jpg": "/blugoon/static/media/logo-image.ff7d9bd8ddfd2d32f114.jpg",
+    "index.html": "/blugoon/index.html",
+    "main.46772437.css.map": "/blugoon/static/css/main.46772437.css.map",
+    "main.dd050afa.js.map": "/blugoon/static/js/main.dd050afa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46772437.css",
+    "static/js/main.dd050afa.js"
+  ]
+}
